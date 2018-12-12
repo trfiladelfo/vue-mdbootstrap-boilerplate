@@ -6,8 +6,6 @@ import "@fortawesome/fontawesome-free/css/all.min.css";
 import "mdbootstrap/css/bootstrap.min.css";
 import "mdbootstrap/css/mdb.min.css";
 
-import VueMask from "v-mask";
-import VueSweetalert2 from "vue-sweetalert2";
 import router from "./router";
 import resource from "./resource";
 
@@ -17,9 +15,6 @@ import "mdbootstrap/js/bootstrap.min.js";
 import "mdbootstrap/js/mdb.min.js";
 
 Vue.config.productionTip = false;
-
-Vue.use(VueMask);
-Vue.use(VueSweetalert2);
 
 new Vue({
   router,
