@@ -1,5 +1,7 @@
 # Vue MDBootstrap Boilerplate
 
+[![Build Status](https://travis-ci.com/trfiladelfo/vue-mdbootstrap-boilerplate.svg?branch=master)](https://travis-ci.com/trfiladelfo/vue-mdbootstrap-boilerplate)
+
 > This is an ever-evolving, very volatile architecture and dev environment for new Vue SPA projects using [Vue CLI 3](https://github.com/vuejs/vue-cli). Questions, feedback, and for now, even bikeshedding are welcome.
 
 ## Features
