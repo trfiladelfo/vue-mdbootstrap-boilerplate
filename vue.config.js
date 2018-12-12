@@ -10,14 +10,14 @@ module.exports = {
         Popper: ["popper.js", "default"]
       })
     ]
-  },
+  } /*,
   devServer: {
     allowedHosts: ["domain.com"],
     proxy: {
       "/api/v2/*": {
-        //target: "http://ip",
+        target: "http://ip",
         changeOrigin: true
       }
     }
-  }
+  }*/
 };
